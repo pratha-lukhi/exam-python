@@ -129,7 +129,7 @@ The birth year is only **approximate** because the program uses the user's age a
 ## 🔗 OnlineGDB
 
 You can find the project code here:
-
+live project link:
 https://onlinegdb.com/itC8gYjar
 
 ## 👩‍💻 Author
@@ -140,3 +140,5 @@ https://onlinegdb.com/itC8gYjar
 
 This project is a simple example of how Python can collect user information, work with different data types, perform type casting, and perform basic calculations. It is useful for beginners to practice the fundamentals of Python programming.
 
+output screenshots:
+<img width="611" height="452" alt="image" src="https://github.com/user-attachments/assets/d2d779e0-c311-47e5-864b-06ce07164e30" />
