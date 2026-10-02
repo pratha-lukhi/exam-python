@@ -13,6 +13,9 @@ The program asks the user to enter their:
 
 It then displays the entered information and shows the **data type** of each value. It also calculates the approximate birth year from the user's age.
 
+
+🎥 Project Explanation Video: https://drive.google.com/drive/folders/1yQ8Rf_qxLpnRtEljYPpdu8o6CEvZ1_fl
+
 ## 🎯 Objective
 
 The main objective of this project is to understand basic Python concepts such as:
